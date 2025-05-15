@@ -6,7 +6,7 @@
 
 ---
 
-## **What I Do for You**
+## **How Can I Help You**
 > *"I get it—you’ve got a hundred things on your plate, and cleaning data, building models, and creating reports just isn’t where you want to spend your time. That’s where I come in."*  
 
 **I specialize in:**  
@@ -16,7 +16,8 @@
 
 ---
 
-**What I Do for You**  
+**What I Do for You**
+  
 ✅ **Declutter Your Mind**  
 Stop stressing over raw data. Pass it to me, and I’ll make sense of it for you.  
 
@@ -93,7 +94,7 @@ I understand your challenges and work to make your life easier.
 
 ---
 
-**Core Skills**  
+#### **Core Skills**  
 📊 **Power BI** (DAX, Data Modeling) | 💹 **Financial Analysis**  
 🔗 **SQL** | 🐍 **Python** | 🧹 **ETL/Data Cleaning**  
 📉 **Budgeting & Forecasting** | 🎯 **Problem-Solving**
