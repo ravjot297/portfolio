@@ -10,6 +10,7 @@
 > *"I get it—you’ve got a hundred things on your plate, and cleaning data, building models, and creating reports just isn’t where you want to spend your time. That’s where I come in."*  
 
 **I specialize in:**  
+
 ✅ Turning messy data into **decision-ready dashboards**  
 ✅ Designing **self-service dashboards** that answer your questions instantly  
 ✅ Automating manual processes to **save you 10+ hours/month**    
@@ -77,7 +78,7 @@ Lack of clarity on monthly/YTD EBIT performance vs. budget.
 
 ---
 
-## **Why Work With Me?**  
+### **Why Work With Me?**  
 
 I’m not just a Power BI Developer—**I’m your data partner**.  
 
@@ -94,7 +95,7 @@ I understand your challenges and work to make your life easier.
 
 ---
 
-#### **Core Skills**  
+### **Core Skills**  
 📊 **Power BI** (DAX, Data Modeling) | 💹 **Financial Analysis**  
 🔗 **SQL** | 🐍 **Python** | 🧹 **ETL/Data Cleaning**  
 📉 **Budgeting & Forecasting** | 🎯 **Problem-Solving**
