@@ -10,8 +10,8 @@
 
 ### **Weekly Cash Flow Forecasting Dashboard**  
 ![Cash Flow Dashboard](Portfolio%201%20-%20Cashflow%20Forecasting%20Dashboard%20Weekly.png)  
-<details>  
-<summary><b>🔍 See project details</b></summary>  
+
+#### **🔍Project Details**
 
 **The Problem**  
 A financially unstructured business faced losses from unbudgeted projects. They needed to replace "gut-feel" decisions with data-driven insights.  
@@ -27,14 +27,13 @@ A financially unstructured business faced losses from unbudgeted projects. They 
 ✅ Enabled strategic spending decisions  
 
 **Tools**: Power BI, DAX, Exact bookkeeping integration  
-</details>  
 
 ---
 
 ### **EBIT Budget vs. Actual Waterfall**  
 ![EBIT Waterfall](Portfolio%202%20-%20Budget%20vs%20Actual%20EBIT%20Waterfall%20Chart.jpg)  
-<details>  
-<summary><b>🔍 See project details</b></summary>  
+
+#### **🔍Project Details**  
 
 **The Problem**  
 Lack of clarity on monthly/YTD EBIT performance vs. budget.  
@@ -50,7 +49,6 @@ Lack of clarity on monthly/YTD EBIT performance vs. budget.
 ✅ Automated manual EBIT checks  
 
 **Tools**: Power BI, Financial Data Modeling  
-</details>  
 
 ---
 
