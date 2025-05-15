@@ -8,8 +8,8 @@
 
 ## **🚀 Featured Projects**  
 
-### **Weekly Cash Flow Forecasting Dashboard | Power BI Project**
-#### **Helped a Small Business See Their Financial Future**  
+### ***Weekly Cash Flow Forecasting Dashboard | Power BI Project***
+**Helped a Small Business See Their Financial Future**  
 ![Cash Flow Dashboard](Portfolio%201%20-%20Cashflow%20Forecasting%20Dashboard%20Weekly.png)  
 
 #### **🔍Project Details**
@@ -31,8 +31,8 @@ A financially unstructured business faced losses from unbudgeted projects. They 
 
 ---
 
-### **EBIT Budget vs. Actual Waterfall | Power BI Project**
-#### **Helped a Business Track & Visualize EBIT Performance Clearly**  
+### ***EBIT Budget vs. Actual Waterfall | Power BI Project***
+**Helped a Business Track & Visualize EBIT Performance Clearly**  
 ![EBIT Waterfall](Portfolio%202%20-%20Budget%20vs%20Actual%20EBIT%20Waterfall%20Chart.jpg)  
 
 #### **🔍Project Details**  
@@ -64,7 +64,7 @@ Lack of clarity on monthly/YTD EBIT performance vs. budget.
 
 ---
 
-### **What I Do for You**  
+**What I Do for You**  
 ✅ **Declutter Your Mind**  
 Stop stressing over raw data. Pass it to me, and I’ll make sense of it for you.  
 
@@ -76,7 +76,7 @@ You get clean, stunning reports that simplify decision-making.
 
 ---
 
-### **Why Choose Me?**  
+**Why Choose Me?**  
 I’m not just a Power BI Developer—**I’m your data partner**.  
 
 🛠️ **Reliability**  
@@ -90,10 +90,11 @@ I understand your challenges and work to make your life easier.
 
 ---
 
-### **Core Skills**  
+**Core Skills**  
 📊 **Power BI** (DAX, Data Modeling) | 💹 **Financial Analysis**  
 🔗 **SQL** | 🐍 **Python** | 🧹 **ETL/Data Cleaning**  
 📉 **Budgeting & Forecasting** | 🎯 **Problem-Solving**
+
 ---
 
 ## **📬 Let’s Collaborate**  
