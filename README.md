@@ -6,6 +6,28 @@
 
 ---
 
+## **What I Do for You**
+> *"I get it—you’ve got a hundred things on your plate, and cleaning data, building models, and creating reports just isn’t where you want to spend your time. That’s where I come in."*  
+
+**I specialize in:**  
+✅ Turning messy data into **decision-ready dashboards**  
+✅ Designing **self-service dashboards** that answer your questions instantly  
+✅ Automating manual processes to **save you 10+ hours/month**    
+
+---
+
+**What I Do for You**  
+✅ **Declutter Your Mind**  
+Stop stressing over raw data. Pass it to me, and I’ll make sense of it for you.  
+
+✅ **Save You Time**  
+Free up your schedule by letting me handle data crunching and dashboard creation.  
+
+✅ **Deliver Quality**  
+You get clean, stunning reports that simplify decision-making.  
+
+---
+
 ## **🚀 Featured Projects**  
 
 ### ***Weekly Cash Flow Forecasting Dashboard | Power BI Project***
@@ -54,30 +76,11 @@ Lack of clarity on monthly/YTD EBIT performance vs. budget.
 
 ---
 
-## **👋 About Me**  
-> *"I get it—you’ve got a hundred things on your plate, and cleaning data, building models, and creating reports just isn’t where you want to spend your time. That’s where I come in."*  
+## **Why Work With Me?**  
 
-**I specialize in:**  
-✅ Turning messy data into **decision-ready dashboards**  
-✅ Designing **self-service dashboards** that answer your questions instantly  
-✅ Automating manual processes to **save you 10+ hours/month**    
-
----
-
-**What I Do for You**  
-✅ **Declutter Your Mind**  
-Stop stressing over raw data. Pass it to me, and I’ll make sense of it for you.  
-
-✅ **Save You Time**  
-Free up your schedule by letting me handle data crunching and dashboard creation.  
-
-✅ **Deliver Quality**  
-You get clean, stunning reports that simplify decision-making.  
-
----
-
-**Why Choose Me?**  
 I’m not just a Power BI Developer—**I’m your data partner**.  
+
+With me, you get:
 
 🛠️ **Reliability**  
 Trust me to deliver on time and with precision.  
